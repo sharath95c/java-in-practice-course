@@ -1,4 +1,4 @@
-package part_2.part_2;
+package part_2;
 
 public class Exercise18 {
 

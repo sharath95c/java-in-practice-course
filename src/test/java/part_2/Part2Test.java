@@ -2,7 +2,6 @@ package part_2;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import part_2.part_2.*;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
