@@ -8,7 +8,8 @@ public class Exercise3 {
     // 3. print out the variable
     public static void main(String[] args) {
         // Add your code only ine the lines below
-
+        int variable = 10;
+        System.out.println(variable);
         // Add your code only in the lines above
     }
 }

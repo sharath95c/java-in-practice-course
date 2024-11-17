@@ -8,7 +8,8 @@ public class Exercise4 {
     // 3. print out the variable
     public static void main(String[] args) {
         // Add your code only ine the lines below
-
+        double variable1 = 3.141592653589793238;
+        System.out.println(variable1);
         // Add your code only in the lines above
     }
 }
